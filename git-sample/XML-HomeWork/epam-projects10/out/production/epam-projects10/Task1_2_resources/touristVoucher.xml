@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<touristVouchers>
+<!-- 1 Element-->
+<touristVoucher>voucher1
+    <cost>100.00</cost>
+    <country>Ukraine</country>
+    <hotelCharacteristics>
+        <bedCount>2</bedCount>
+        <conditionerPresent>false</conditionerPresent>
+        <foodType>HB</foodType>
+        <stars>4</stars>
+        <TVPresent>true</TVPresent>
+    </hotelCharacteristics>
+    <numberDays>8</numberDays>
+    <numberNights>8</numberNights>
+    <transport>CAR</transport>
+    <voucherType>REST</voucherType>
+</touristVoucher>
+    <!-- 2 Element-->
+    <touristVoucher>voucher2
+        <cost>100.00</cost>
+        <country>Italy</country>
+        <hotelCharacteristics>
+            <bedCount>1</bedCount>
+            <conditionerPresent>false</conditionerPresent>
+            <foodType>BB</foodType>
+            <stars>5</stars>
+            <TVPresent>true</TVPresent>
+        </hotelCharacteristics>
+        <numberDays>2</numberDays>
+        <numberNights>2</numberNights>
+        <transport>BUS</transport>
+        <voucherType>WEEKENDTRIP</voucherType>
+    </touristVoucher>
+    <!-- 3 Element-->
+    <touristVoucher>voucher3
+        <cost>100.00</cost>
+        <country>Spain</country>
+        <hotelCharacteristics>
+            <bedCount>3</bedCount>
+            <conditionerPresent>false</conditionerPresent>
+            <foodType>AL</foodType>
+            <stars>3</stars>
+            <TVPresent>true</TVPresent>
+        </hotelCharacteristics>
+        <numberDays>5</numberDays>
+        <numberNights>5</numberNights>
+        <transport>BUS</transport>
+        <voucherType>PILGRIMAGE</voucherType>
+    </touristVoucher>
+</touristVouchers>
